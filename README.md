@@ -1,2 +1,2 @@
 # simple-
-rainbow song
+rainbow song in the key of major
